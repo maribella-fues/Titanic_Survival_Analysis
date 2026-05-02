@@ -242,3 +242,22 @@ In terms of modern implications, the analysis suggests several directions for im
 A key actionable direction from this work is the application of this analytical framework to other disaster-related datasets, such as building evacuation records, transportation accidents, wildfires, or public health emergencies. For example, similar patterns could be examined in historical maritime shipwrecks such as the Lusitania, which provides a potential comparative case for investigating how differences in time pressure and evacuation conditions may shape survival outcomes and the relative influence of social structure (Frey et al., 2010), or in modern healthcare triage systems, where clustering is used to prioritize patients based on risk profiles (Kim et al., 2025). Applying clustering in these contexts could help identify vulnerability patterns and improve risk stratification beyond what is visible through aggregate statistics alone. This approach could support more targeted safety planning, improve emergency preparedness strategies, and guide resource allocation towards groups and conditions associated with higher risk.
 
 Overall, while the Titanic dataset reflects a specific historical event, the patterns identified provide a useful framework for thinking about how social and physical structures can influence survival outcomes. These insights can inform both retrospective understanding of historical disasters and future improvements in modern safety and emergency response systems.
+
+## References
+
+Bingos. (n.d.). *Visualization of Titanic* \[Notebook\]. Kaggle. [https://www.kaggle.com/code/bingos/visualization-of-titanic](https://www.kaggle.com/code/bingos/visualization-of-titanic)
+
+Frey, B. S., Savage, D. A., & Torgler, B. (2010). Interaction of natural survival instincts and internalized social norms exploring the Titanic and Lusitania disasters. Proceedings of the National Academy of Sciences of the United States of America, 107(11), 4862–4865. [https://doi.org/10.1073/pnas.0911303107](https://doi.org/10.1073/pnas.0911303107) 
+
+"How Many People Were on the Titanic? Here Are Some Numbers" History on the Net© 2000-2026, Salem Media. April 26, 2026
+ [https://www.historyonthenet.com/how-many-people-were-on-the-titanic](https://www.historyonthenet.com/how-many-people-were-on-the-titanic)
+ 
+Kaggle. (n.d.). *Titanic: Machine Learning from Disaster.* Retrieved from [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)
+
+Kim, J., Jang, E., Kwon, S., & Song, M. (2025). Unsupervised Clustering of 41,728 Emergency Department Visits: Insights into Patient Profiles and KTAS Reliability. Healthcare (Basel, Switzerland), 13(23), 3073. [https://doi.org/10.3390/healthcare13233073](https://doi.org/10.3390/healthcare13233073) 
+
+Shreiber, A. (2020, April 25). *A practical guide to DBSCAN method.* Medium. [https://medium.com/data-science/a-practical-guide-to-dbscan-method-d4ec5ab2bc99](https://medium.com/data-science/a-practical-guide-to-dbscan-method-d4ec5ab2bc99)
+
+Youssefkhaled117. (n.d.). *Titanic ML classification (5 models)* \[Notebook\]. Kaggle. [https://www.kaggle.com/code/youssefkhaled117/titanic-ml-classification-5-models](https://www.kaggle.com/code/youssefkhaled117/titanic-ml-classification-5-models)
+
+Link to Kaggle Titanic Dataset: [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
